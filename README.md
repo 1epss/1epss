@@ -1,6 +1,6 @@
-# About me
-
-I will update my README when I'm bored
+<h1 align="center">
+Hey there :3
+</h1>
 
 
 <br/>
@@ -8,15 +8,13 @@ I will update my README when I'm bored
 
 ## What I am currently doing..
 - Studying Seismology and Geophysics
-- Also interested in programming language such as Python, Julia
-- 
--
+- Exploring programming languages such as Python, Julia
+- Trying hard to speak both on English and 日本語
 
-Under Construction 
 <br/>
 <br/>
 
-## Great websites I love
+## Great websites for my journey toward my goals
 ### Geophysics and Seismology
 - [BASE GEOPHYSICS](https://www.basegeophysics.com/) :
 - [Seismo Links](https://seismo-learn.org/links/) :
@@ -36,7 +34,9 @@ Under Construction
 
 ## Contacts
 
-Under Construction 
+<p align="center">
+<a href="mailto:silentgyuu@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
+</p>
 
 ---
-Last Edited on: 30/08/2024
+Last Edited on: 04/10/2024
