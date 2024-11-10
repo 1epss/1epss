@@ -26,7 +26,7 @@ This section provides an overview of the courses I have completed as part of my 
 |-------------------------|-----------------------|-------------------|-----------------------------------------------------------|
 | *Data visualization & Analysis*     | Multicampus | 2022.8 - 2023.1      | Analysis and Visualization using Field Data, Statistical Techniques and Data Learning Based on AI Platform |
 | *Undergraduate Researcher* | Chonnam National University | 2023.9 -  ...      | Seismic phase picking and Documentation of instruments on KMA, KIGAM stations  |
-| *EarthScope Seismology Skill Building Workshop*     | Earthscope | 2024.6 - 2024.9      | Develop scientific computing skills within a seismological context |
+| *EarthScope Seismology Skill Building Workshop*     | Earthscope Consortium | 2024.6 - 2024.9      | Develop scientific computing skills within a seismological context |
 | *Upcoming*     |  |       | *Upcoming* |
 
 <br/>
