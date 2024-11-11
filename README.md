@@ -6,13 +6,13 @@ Hey there :3
 <br/>
 
 ## Me?
-- An undergraduate student majoring in seismology and geophysics.
+- An postgraduate student majoring in seismology and geophysics.
 - Also interested in programming languages like Python and Julia.
 - Trying to be able to speak both English and 日本語.
 
 <br/>
 
-## Interesting!
+## Interested!
 - Distributed Acoustic Sensing (DAS) applied to geophysics
 - Earthquake Early Warning (EEW) services
 - Linux and related technologies applicable to both of the above
@@ -25,7 +25,7 @@ This section provides an overview of the courses I have completed as part of my 
 | **Course**        | **Institution**       | **Term**      | **Description**                                           |
 |-------------------------|-----------------------|-------------------|-----------------------------------------------------------|
 | *Data visualization & Analysis*     | Multicampus | 2022.8 - 2023.1      | Analysis and Visualization using Field Data, Statistical Techniques and Data Learning Based on AI Platform |
-| *Undergraduate Researcher* | Chonnam National University | 2023.9 -  ...      | Seismic phase picking and Documentation of instruments on KMA, KIGAM stations  |
+| *Undergraduate Researcher* | Chonnam National University | 2023.9 - (2025.2)      | Seismic phase picking and Documentation of instruments on KMA, KIGAM stations  |
 | *EarthScope Seismology Skill Building Workshop*     | Earthscope Consortium | 2024.6 - 2024.9      | Develop scientific computing skills within a seismological context |
 | *Upcoming*     |  |       | *Upcoming* |
 
@@ -38,4 +38,4 @@ Feel free to contact me at your convenience.
 </p>
 
 ---
-Last Edited on: 2024.11.10
+Last Edited on: 2024.11.11
