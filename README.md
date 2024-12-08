@@ -2,7 +2,7 @@
 Hey there :3
 </h1>
 
-
+![91trbr9ksrc81](https://github.com/user-attachments/assets/d6208d8d-4950-461b-93b9-44771d59e888)
 <br/>
 
 ## Me?
@@ -15,7 +15,8 @@ Hey there :3
 ## Interested!
 - Distributed Acoustic Sensing (DAS) applied to geophysics
 - Earthquake Early Warning (EEW) services
-- Linux and related technologies applicable to both of the above
+- Linux and related technologies applicable to both of the above (*currently using Arch Linux*)
+  
 
 <br/>
 
@@ -38,4 +39,4 @@ Feel free to contact me at your convenience.
 </p>
 
 ---
-Last Edited on: 2024.11.11
+Last Edited on: 2024.12.09
