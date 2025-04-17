@@ -13,8 +13,8 @@ Hey there :3
 <br/>
 
 ## Interested!
+- Deep-learning based Depth phase picking 
 - Distributed Acoustic Sensing (DAS) applied to geophysics
-- Earthquake Early Warning (EEW) services
 - Linux and related technologies applicable to both of the above (*currently using Arch Linux*)
   
 
@@ -40,4 +40,4 @@ Feel free to contact me at your convenience.
 </p>
 
 ---
-Last Edited on: 2025.01.24
+Last Edited on: 2025.04.17
