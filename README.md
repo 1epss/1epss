@@ -17,7 +17,6 @@ Hey there :3
 - Distributed Acoustic Sensing (DAS) applied to geophysics
 - Linux and related technologies applicable to both of the above (*currently using Arch Linux*)
   
-
 <br/>
 
 ## Academic Courses
@@ -36,8 +35,11 @@ This section provides an overview of the courses I have completed as part of my 
 ## Contacts
 Feel free to contact me at your convenience.
 <p align="center">
-<a href="mailto:silentgyuu@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
+<a href="mailto:silentgyuu@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a> <a href="https://gyuu.me">
+  <img src="https://img.shields.io/badge/blog-%23009639.svg?style=plastic&logo=nginx&logoColor=white" alt="Blog"/>
+</a>
+
 </p>
 
 ---
-Last Edited on: 2025.04.17
+Last updated: July 27, 2025
